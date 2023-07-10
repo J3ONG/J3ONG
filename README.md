@@ -33,6 +33,7 @@ Once I've Used <br>
 <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
+<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white">
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J3ONG)](https://github.com/J3ONG/github-readme-stats) 
