@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J3ONG)](https://github.com/J3ONG/github-readme-stats)
 
-<hr/>
 
 ## Project List
 - [Spring Boot]<a href="https://github.com/J3ONG/Portfolio1">Streampark</a>
