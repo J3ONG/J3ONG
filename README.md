@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - Name : Cheon Jeong Woo
 - email : kenohjw@gmail.com
 
-Once I've Used
+Once I've Used <br>
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 
 [![J3ONG's GitHub stats](https://github-readme-stats.vercel.app/api?username=J3ONG)](https://github.com/J3ONG/github-readme-stats)
