@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Profile
 - 🌱 I’m currently learning for Web Developer
-- Korean Name : Cheon Jeong Woo
+- Name : Cheon Jeong Woo
 - email : kenohjw@gmail.com
 
 
