@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 [![J3ONG's GitHub stats](https://github-readme-stats.vercel.app/api?username=J3ONG)](https://github.com/J3ONG/github-readme-stats)
 <hr/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J3ONG)](https://github.com/J3ONG/github-readme-stats) Once I've Used <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J3ONG)](https://github.com/J3ONG/github-readme-stats) 
+Once I've Used <br>
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
