@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 
 
-## Once I've Used 
+## I've Used 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J3ONG)](https://github.com/J3ONG/github-readme-stats) 
 <br>
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
