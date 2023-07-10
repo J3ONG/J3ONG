@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## Profile
 - 🌱 I’m currently learning for Web Developer
 - Name : Cheon Jeong Woo
-- email : kenohjw@gmail.com
+- Email : kenohjw@gmail.com
 
 
 
