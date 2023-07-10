@@ -20,11 +20,15 @@ Here are some ideas to get you started:
 - Name : Cheon Jeong Woo
 - email : kenohjw@gmail.com
 
+Once I've Used
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 
 [![J3ONG's GitHub stats](https://github-readme-stats.vercel.app/api?username=J3ONG)](https://github.com/J3ONG/github-readme-stats)
 <hr/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J3ONG)](https://github.com/J3ONG/github-readme-stats)
+
+## Languages
 
 
 ## Project List
