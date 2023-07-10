@@ -26,6 +26,5 @@ Here are some ideas to get you started:
 <hr/>
 
 ## Project List
-<hr>
 - [Spring Boot]<a href="https://github.com/J3ONG/Portfolio1">Streampark</a>
 
