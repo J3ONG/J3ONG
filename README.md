@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 ## Profile
 - 🌱 I’m currently learning for Web Developer
+- Korean Name : Cheon Jeong Woo
+- email : kenohjw@gmail.com
+
 
 [![J3ONG's GitHub stats](https://github-readme-stats.vercel.app/api?username=J3ONG)](https://github.com/J3ONG/github-readme-stats)
 <hr/>
