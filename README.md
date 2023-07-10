@@ -14,10 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Profile
+- 🌱 I’m currently learning for Web Developer
+
 [![J3ONG's GitHub stats](https://github-readme-stats.vercel.app/api?username=J3ONG)](https://github.com/J3ONG/github-readme-stats)
 <hr/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J3ONG)](https://github.com/J3ONG/github-readme-stats)
 
-<br>
+<hr/>
+
+## Project List
+<hr>
+- [Spring Boot]<a href="https://github.com/J3ONG/Portfolio1">Streampark</a>
 
