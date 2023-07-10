@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 
 
 [![J3ONG's GitHub stats](https://github-readme-stats.vercel.app/api?username=J3ONG)](https://github.com/J3ONG/github-readme-stats)
-<!--
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kenohjw)](https://solved.ac/kenohjw)
--->
+
 
 
 
